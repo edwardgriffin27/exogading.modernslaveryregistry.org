@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 remote_theme: chriskyfung/amp-affiliately-jekyll-theme
-name: "TOGEL RESMI"
-title: "EXOGADING: Link Togel dan Slot Online Terpercaya"
+name: "EXOTOTO"
+title: "EXOTOTO: Link Togel dan Slot Online Terpercaya"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  GANTI_DESCRIPTION_HERE
+  EXOTOTO ialah salah satu Bandar Togel Terpercaya yg telah mengudara selama bertahun-tahun pada Indonesia. tidak hanya permainan Togel Online, namun permainan Live Casino hingga Slot Online Gacor tersedia untuk Anda hanya pada 1 akun. menggunakan akses yang praktis, EXOTOTO bertujuan penuh untuk memberikan Anda layanan permainan taruhan yg lengkap serta tentunya terpercaya.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://exogading.modernslaveryregistry.org" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'assets/img/favicon.png'
@@ -46,7 +46,7 @@ defaults:
 # Copyright Start Year
 copyright: 
   prefix: 
-  ownership: TOGEL RESMI
+  ownership: EXOTOTO
   link: /
 
 plugins:
